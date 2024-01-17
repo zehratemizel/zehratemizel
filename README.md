@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zehra Temizeş</h1>
+<h1 align="center">Hi 👋, I'm Zehra Temizel</h1>
 <h3 align="center">A passionate Software Quality Assurance Tester from Türkiye</h3>
 
 - 🔭 I’m currently working on **Tobeto Platform Test Assessment**
